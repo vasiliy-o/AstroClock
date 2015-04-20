@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="470"
+   height="570"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow1Lstart">
+      <path
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt;marker-start:none"
+         id="path7374" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-20,-20)"
+     id="layer1">
+    <path
+       d="M 62.5,122.50001 C 62.499993,228.62114 148.6273,314.74845 254.74844,314.74845 C 360.86958,314.74845 446.99689,228.62114 446.99688,122.5"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:36;stroke-linecap:round;stroke-linejoin:round;marker-start:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1874" />
+    <path
+       d="M 62.5,82.5 L 22.5,142.5 L 62.5,122.5 L 102.5,142.5 L 62.5,82.5 z "
+       style="fill:black;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6314" />
+    <path
+       d="M 447.5,82.5 L 407.5,142.5 L 447.5,122.5 L 487.5,142.5 L 447.5,82.5 z "
+       style="fill:black;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path7381" />
+    <path
+       d="M 255,22.5 L 215,82.5 L 255,62.5 L 295,82.5 L 255,22.5 z "
+       style="fill:black;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path8268" />
+    <path
+       d="M 345.74988,386.74845 L 164.25012,386.74845"
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:36;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8284" />
+    <path
+       d="M 255,62.5 L 255,575.5"
+       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:36;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path11855" />
+  </g>
+</svg>
